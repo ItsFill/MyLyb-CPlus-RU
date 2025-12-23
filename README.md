@@ -2,7 +2,7 @@ Hi! I'm learning C++ and I want to share the knowledge I’ve gained or found in
 
 
 
-In this repository, you can find many topics and interesting sources of information about **C++, that i used.**
+In this repository, you can find many topics and interesting sources of information about C++, that i used.
 
 I’m trying to make this "library" bigger and better. Good luck to you, let's get better together!
 
